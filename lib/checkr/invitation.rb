@@ -1,13 +1,6 @@
 module Checkr
   class Invitation < APIResource
 
-    attribute :id
-    attribute :object
-    attribute :uri
-    attribute :status
-    attribute :created_at
-    attribute :expires_at
-    attribute :completed_at
     attribute :package
     attribute :candidate_id
 

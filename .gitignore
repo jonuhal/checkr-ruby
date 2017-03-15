@@ -3,3 +3,4 @@ Gemfile.lock
 *.gem
 test.rb
 .ruby-version
+*.swp
